@@ -12,7 +12,6 @@ namespace GitTesting
         {
             Console.WriteLine("memes are nice :^)");
             Console.ReadLine();
-            //top kek
         }
     }
 }
