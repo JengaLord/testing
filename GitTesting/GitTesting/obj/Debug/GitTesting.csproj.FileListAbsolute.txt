@@ -1,0 +1,6 @@
+C:\Users\joe\Documents\GitHub\testing\GitTesting\GitTesting\bin\Debug\GitTesting.exe.config
+C:\Users\joe\Documents\GitHub\testing\GitTesting\GitTesting\bin\Debug\GitTesting.exe
+C:\Users\joe\Documents\GitHub\testing\GitTesting\GitTesting\bin\Debug\GitTesting.pdb
+C:\Users\joe\Documents\GitHub\testing\GitTesting\GitTesting\obj\Debug\GitTesting.csprojResolveAssemblyReference.cache
+C:\Users\joe\Documents\GitHub\testing\GitTesting\GitTesting\obj\Debug\GitTesting.exe
+C:\Users\joe\Documents\GitHub\testing\GitTesting\GitTesting\obj\Debug\GitTesting.pdb
