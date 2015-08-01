@@ -10,7 +10,7 @@ namespace GitTesting
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("egg");
+            Console.WriteLine("memes are nice :^)");
             Console.ReadLine();
         }
     }
